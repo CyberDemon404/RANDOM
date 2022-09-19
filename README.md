@@ -6,9 +6,9 @@ Setup.😍😍
 <p>apt update && upgrade</p>
 <p>apt install git</p>
 <p>apt install python</p>
-<p>pip install mechanize future bs4 lolcat rich request play-audio</p> 
+<p>pip install mechanize future bs4 lolcat rich requests play-audio</p> 
 <p>git clone https://github.com/CyberDemon404/RANDOM</p>
-<p>git pull</p>
+<p>cd RANDOM</p>
 <p>python run.py</p>
 
 <h3>PAID TOOL</h3>
